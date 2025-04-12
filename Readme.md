@@ -99,3 +99,6 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## 🙌 Acknowledgements
 Built using ❤️ with LangChain, OpenAI, Streamlit, and FAISS.
+
+## Architecture
+![Architecture](image.png)
