@@ -98,7 +98,7 @@ OPENAI_API_KEY=your_openai_api_key
 4. 🌍 Add support for more languages
 
 ## 🙌 Acknowledgements
-Built using ❤️ with LangChain, OpenAI, Streamlit, and FAISS.
+Built with ❤️ using LangChain, OpenAI, Streamlit, and FAISS.
 
-## Architecture
+## 🧠 Architecture
 ![Architecture](image.png)
